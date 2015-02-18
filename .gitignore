@@ -1,0 +1,14 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.chefdk
+.gem
+.gitconfig
+.git.rb
+.pki
+.ssh
+.remote-sync.json
+hello.txt
+.vim*
+.DS_Store
