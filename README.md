@@ -2,6 +2,10 @@
 
 Chef is an automation platform that transforms infrastructure into code. This is a hands-on tutorial that will cover the basics that everyone needs to know about how to use Chef for system and infrastructure management.
 
+# Serverspec Documentation
+
+Better serverspec documentation - http://burtlo.github.io/serverspec.github.io/resource_types.html
+
 ### Who should attend:
 Anyone responsible for managing infrastructure especially those who are interested in automating the provisioning and management of said infrastructure using state-of-the-art tools and practices.
 
