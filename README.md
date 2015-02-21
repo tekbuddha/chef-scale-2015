@@ -2,10 +2,6 @@
 
 Chef is an automation platform that transforms infrastructure into code. This is a hands-on tutorial that will cover the basics that everyone needs to know about how to use Chef for system and infrastructure management.
 
-# Serverspec Documentation
-
-Better serverspec documentation - http://burtlo.github.io/serverspec.github.io/resource_types.html
-
 ### Who should attend:
 Anyone responsible for managing infrastructure especially those who are interested in automating the provisioning and management of said infrastructure using state-of-the-art tools and practices.
 
@@ -20,7 +16,7 @@ Topics include:
 
 ### Student Workstations
 
-IP Addresses for each student can be found in [this gist](https://gist.github.com/tekbuddha/186fc1b82c52fdb5b0b0).
+IP Addresses for each student can be found in [this gist](https://gist.github.com/tekbuddha/).
 
 ### Materials
 
@@ -67,3 +63,6 @@ Though we might not make use of these in the class, you’ll probably want them 
 
 * Vagrant
 * Virtual Box
+
+#### Serverspec Documentation
+ServerSpec recently went through a revision change. Here's a link to the most recent documentation of available resource types with ServerSpec: [ServerSpec Resource Types](http://burtlo.github.io/serverspec.github.io/resource_types.html)
