@@ -16,7 +16,7 @@ Topics include:
 
 ### Student Workstations
 
-IP Addresses for each student can be found in [this gist](https://gist.github.com/tekbuddha/).
+IP Addresses for each student can be found in [this gist](https://gist.github.com/tekbuddha/5d813888cd3c661fce97).
 
 ### Materials
 
